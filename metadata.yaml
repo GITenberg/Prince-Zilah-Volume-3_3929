@@ -1,0 +1,27 @@
+_repo: Prince-Zilah-Volume-3_3929
+creator:
+  author:
+    agent_name: Claretie, Jules
+    aliases:
+    - Claretie, Arsène-Armand
+    - Claretie, Arsene-Arnaud
+    - Claretie, Arsène-Arnaud
+    birthdate: 1840
+    deathdate: 1913
+    gutenberg_agent_id: '1338'
+    url: http://www.gutenberg.org/2009/agents/1338
+    wikipedia: http://en.wikipedia.org/wiki/Jules_Ars%C3%A8ne_Arnaud_Claretie
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3929'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paris (France) -- Fiction'
+- !lcc 'PQ'
+title: Prince Zilah — Volume 3
+url: http://www.gutenberg.org/ebooks/3929
